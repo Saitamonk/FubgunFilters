@@ -526,7 +526,14 @@ BaseEvasion = 0
 BaseEnergyShield > 0
 
 Hide
-BaseType = "Long Quarter" "Barrier Quarter" "Serrated Quiver" "Toxic Quiver" "Blunt Quiver" "Crackling Quarter"
+BaseType = "Serrated Quiver" "Toxic Quiver" "Blunt Quiver"
+
+Show
+Rarity = Rare
+Class = "Quarterstaff"
+SetFontSize 40
+SetBorderColor 0 250 180 255
+SetBackgroundColor 255 69 0
 
 Show
 Rarity = Rare
